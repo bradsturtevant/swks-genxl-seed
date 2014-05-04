@@ -1,4 +1,4 @@
-ngSwks-genxl-seed
+swks-genxl-seed
 =================
 
 Sturdyworks Generator-Angular-XL Seed Project
